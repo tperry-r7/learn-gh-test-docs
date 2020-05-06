@@ -22,5 +22,5 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 # Yell into the void
 This is an option for everyone. Free and low cost. Even kids can do it.
 
-# Call for an eagle
+# Call for an Eagle
 Just like in LOTR you too call for the eagles. 
