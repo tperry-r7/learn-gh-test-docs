@@ -23,4 +23,4 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 This is an option for everyone. Free and low cost. Even kids can do it.
 
 # Call for an Eagle
-Just like in LOTR you too call for the eagles. 
+Just like in LOTR you too call for the Eagles. 
