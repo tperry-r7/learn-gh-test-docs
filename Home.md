@@ -14,7 +14,7 @@ Are you anxious to get your [Metasploit Development Environment](https://github.
 - [[Using Git]]
 - [[Reporting a Bug]]
 
-# Contributing
+# Submissions
 
 - [[Contributing to Metasploit]]
 - [[Creating Metasploit Framework LoginScanners]]
