@@ -19,4 +19,5 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 [list]: https://groups.google.com/forum/#!forum/metasploit-hackers "Metasploit Hackers development mailing list"
 [mailto]: mailto:metasploit-hackers@googlegroups.ca
 
-Update the contact page!
+# Yell into the void
+This is an option for everyone. Free and low cost. Even kids can do it.
