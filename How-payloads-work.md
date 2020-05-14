@@ -1,6 +1,6 @@
 # How Payloads Work
 
-Payload modules are stored in `modules/payloads/{singles,stages,stagers}/<platform>`. When the framework starts up, stages are combined with stagers to create a complete payload that you can use in exploits. Then, handlers are paired with payloads so the framework will know how to create sessions with a given communications mechanism.
+Payload modules are stored in `modules/payloads/{singles,stages,stagers}/<platform>`. When the framework starts, stages are combined with stagers to create a complete payload that you can use in exploits. Then, handlers are paired with payloads so the framework knows how to create sessions with a given communications mechanism.
 
 Payloads are given reference names that indicate all the pieces, like so:
   - Staged payloads: `<platform>/[arch]/<stage>/<stager>`
