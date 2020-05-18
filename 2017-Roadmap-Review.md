@@ -1,5 +1,5 @@
 # Metasploit's 2017 Roadmap Review
-Make some edits. 
+Change the edits.
 In 2017, we published our first open roadmap for Metasploit development. How did we do? For achievements:
 
  * The Metasploit data model backend: we did a lot of design work on this, and got a couple of initial Proof-of-Concept project built. You can see a video of it here: https://www.youtube.com/watch?v=hvuy6A-ie1g. In the mean time, we started merging parts of the main development branch 
