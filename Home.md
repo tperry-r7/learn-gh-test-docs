@@ -1,4 +1,4 @@
-# Welcome to this page!
+# Welcome to Metasploit-land!
 
 # Hi
 Are you a Metasploit user who wants to get started or get better at hacking stuff (that you have permission to hack)? The quickest way to get started is to [download the Metasploit binary installer](http://www.rapid7.com/products/metasploit/download.jsp). This will give you access to both the free, open-source Metasploit Framework and a free trial of Metasploit Pro.
